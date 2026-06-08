@@ -1,0 +1,707 @@
+GUÍA DE ESTILOS UI
+Proyecto: Página interactiva en eXeLearning
+Tema: Documentación y Obtención de Información
+Presentadores: German Uriel y Alexa Samara
+
+
+1. IDENTIDAD VISUAL GENERAL
+
+La página debe tener un estilo académico, moderno y limpio. La intención es que parezca una exposición formal, pero no aburrida. Debe sentirse como una presentación digital interactiva, organizada en secciones tipo diapositiva.
+
+El diseño debe transmitir tres ideas principales:
+
+- Claridad.
+- Orden.
+- Confianza.
+
+2. PALETA DE COLORES
+
+2.1 Color principal
+
+Azul académico:
+#305dbf
+
+Uso recomendado:
+- Títulos principales.
+- Botones principales.
+- Elementos destacados.
+- Iconos importantes.
+- Líneas divisorias o detalles visuales.
+
+Este color representa confianza, conocimiento y tecnología.
+
+
+2.2 Color secundario
+
+Morado educativo:
+#7C3AED
+
+Uso recomendado:
+- Subtítulos.
+- Elementos interactivos.
+- Etiquetas.
+- Acentos visuales.
+- Secciones de reflexión.
+
+Este color aporta un toque creativo y moderno sin perder formalidad.
+
+
+2.3 Color de apoyo
+
+Verde confiabilidad:
+#16A34A
+
+Uso recomendado:
+- Respuestas correctas.
+- Mensajes positivos.
+- Indicadores de fuente confiable.
+- Confirmaciones.
+- Elementos relacionados con verificación.
+
+Este color representa validez, aprobación y seguridad.
+
+
+2.4 Color de advertencia
+
+Amarillo suave:
+#FACC15
+
+Uso recomendado:
+- Advertencias.
+- Puntos importantes.
+- Llamados de atención.
+- Recomendaciones.
+
+Debe usarse con moderación para no saturar la interfaz.
+
+
+2.5 Color de error o alerta
+
+Rojo controlado:
+#DC2626
+
+Uso recomendado:
+- Respuestas incorrectas.
+- Fuentes no confiables.
+- Advertencias importantes.
+- Errores de interpretación.
+
+No debe usarse como color decorativo, solo como señal de atención.
+
+
+2.6 Colores de fondo
+
+Fondo principal:
+#F8FAFC
+
+Fondo de tarjetas:
+#FFFFFF
+
+Fondo de secciones destacadas:
+#EEF2FF
+
+Fondo para actividades:
+#F0FDF4
+
+Estos fondos ayudan a mantener la lectura cómoda y a separar visualmente los bloques.
+
+
+2.7 Colores de texto
+
+Texto principal:
+#1E293B
+
+Texto secundario:
+#475569
+
+Texto suave o auxiliar:
+#64748B
+
+Texto sobre botones oscuros:
+#FFFFFF
+
+El texto debe tener buen contraste para facilitar la lectura.
+
+
+3. TIPOGRAFÍAS
+
+3.1 Fuente para títulos
+
+Fuente recomendada:
+Montserrat
+
+Alternativas:
+Poppins, Sora, Arial Rounded, Segoe UI Semibold.
+
+Uso:
+- Título de la página.
+- Títulos de sección.
+- Encabezados importantes.
+
+Estilo recomendado:
+- Peso: 700 o bold.
+- Tamaño grande.
+- Espaciado claro.
+- Uso limitado de mayúsculas.
+
+Ejemplo:
+DOCUMENTACIÓN Y OBTENCIÓN DE INFORMACIÓN
+
+
+3.2 Fuente para subtítulos
+
+Fuente recomendada:
+Poppins
+
+Alternativas:
+Nunito, Segoe UI, Calibri.
+
+Uso:
+- Subtítulos.
+- Frases introductorias.
+- Descripciones breves.
+
+Estilo recomendado:
+- Peso: 500 o 600.
+- Tamaño medio.
+- Color secundario o texto secundario.
+
+
+3.3 Fuente para texto normal
+
+Fuente recomendada:
+Nunito
+
+Alternativas:
+Open Sans, Roboto, Segoe UI, Calibri.
+
+Uso:
+- Párrafos.
+- Explicaciones.
+- Instrucciones.
+- Preguntas.
+
+Estilo recomendado:
+- Peso: 400.
+- Tamaño cómodo para lectura.
+- Interlineado amplio.
+
+Recomendación:
+El texto no debe sentirse compacto. Es mejor usar párrafos cortos de 2 a 4 líneas.
+
+
+3.4 Fuente para ejemplos o fragmentos técnicos
+
+Fuente recomendada:
+JetBrains Mono
+
+Alternativas:
+Consolas, Cascadia Mono, Courier New.
+
+Uso:
+- Ejemplos.
+- Comparaciones.
+- Citas.
+- Fragmentos de estructura.
+- Mini plantillas.
+
+Debe usarse poco, solo cuando ayude a diferenciar un ejemplo del resto del texto.
+
+
+4. ESTILO DE ICONOS
+
+4.1 Tipo de iconos
+
+Estilo recomendado:
+Linear / Outline
+
+Características:
+- Trazos delgados o medios.
+- Bordes redondeados.
+- Apariencia limpia.
+- Sin demasiado relleno.
+- Coherencia entre todos los iconos.
+
+No se recomienda usar muchos iconos sólidos, porque pueden verse pesados visualmente. Los iconos sólidos solo pueden usarse para elementos muy importantes, como advertencias, respuestas correctas o botones principales.
+
+
+4.2 Grosor de línea
+
+Grosor recomendado:
+2 px aproximadamente.
+
+Los iconos deben verse claros, pero no demasiado gruesos.
+
+
+4.3 Color de iconos
+
+Iconos principales:
+#2563EB
+
+Iconos secundarios:
+#7C3AED
+
+Iconos de correcto:
+#16A34A
+
+Iconos de alerta:
+#FACC15
+
+Iconos de error:
+#DC2626
+
+Iconos neutros:
+#64748B
+
+
+4.4 Iconos sugeridos por sección
+
+Portada:
+Icono de documento, libro abierto o lupa.
+
+Introducción:
+Icono de bombilla o pregunta.
+
+Documentación:
+Icono de archivo, carpeta o libreta.
+
+Obtención de información:
+Icono de lupa o navegador.
+
+Fuentes confiables:
+Icono de escudo, check o certificado.
+
+Organización:
+Icono de lista, mapa mental o tabla.
+
+Redacción:
+Icono de lápiz o teclado.
+
+Actividad final:
+Icono de estrella, tarea o portapapeles.
+
+Conclusión:
+Icono de bandera, check final o medalla.
+
+
+5. ESTRUCTURA VISUAL DE CADA SECCIÓN
+
+Cada sección debe tener una estructura constante para que la página se sienta ordenada.
+
+Estructura recomendada:
+
+1. Título claro.
+2. Frase breve de introducción.
+3. Explicación corta.
+4. Ejemplo o tabla.
+5. Elemento interactivo.
+6. Cierre o idea clave.
+
+No todas las secciones necesitan todos los elementos, pero sí deben conservar una lógica parecida.
+
+
+6. DISEÑO DE PORTADA
+
+La portada debe ser visualmente más fuerte que el resto de secciones.
+
+Elementos recomendados:
+- Título grande.
+- Subtítulo breve.
+- Nombres de los presentadores.
+- Imagen o ilustración relacionada.
+- Fondo suave con degradado ligero.
+
+Color de fondo sugerido:
+Degradado entre #EEF2FF y #F8FAFC.
+
+Título:
+Color #1E293B o #2563EB.
+
+Subtítulo:
+Color #475569.
+
+Presentadores:
+Color #7C3AED.
+
+
+7. TARJETAS DE CONTENIDO
+
+Las tarjetas permiten separar información importante.
+
+Estilo recomendado:
+- Fondo: #FFFFFF.
+- Borde: 1 px sólido #E2E8F0.
+- Radio de borde: 14 px.
+- Sombra suave.
+- Espaciado interno amplio.
+- Título pequeño con icono.
+
+Sombra sugerida:
+0 4px 12px rgba(15, 23, 42, 0.08)
+
+Uso:
+- Definiciones.
+- Ejemplos.
+- Comparaciones.
+- Criterios de fuente confiable.
+- Actividades.
+
+
+8. BOTONES
+
+8.1 Botón principal
+
+Uso:
+- Iniciar actividad.
+- Revisar respuesta.
+- Continuar.
+- Ver ejemplo.
+
+Estilo:
+- Fondo: #2563EB.
+- Texto: #FFFFFF.
+- Bordes redondeados.
+- Tamaño cómodo.
+- Sin exceso de efectos.
+
+Estado hover:
+- Fondo: #1D4ED8.
+
+
+8.2 Botón secundario
+
+Uso:
+- Ver pista.
+- Regresar.
+- Mostrar información adicional.
+
+Estilo:
+- Fondo: transparente o #EEF2FF.
+- Texto: #2563EB.
+- Borde: 1 px sólido #2563EB.
+
+
+8.3 Botón de actividad
+
+Uso:
+- Preguntas interactivas.
+- Autoevaluación.
+- Reflexión.
+
+Estilo:
+- Fondo: #7C3AED.
+- Texto: #FFFFFF.
+- Hover: #6D28D9.
+
+
+9. ELEMENTOS INTERACTIVOS EN EXELEARNING
+
+9.1 Reflexión
+
+Uso:
+- Introducción.
+- Preguntas abiertas.
+- Activación de conocimiento previo.
+
+Estilo visual:
+- Fondo: #EEF2FF.
+- Borde izquierdo: 5 px sólido #7C3AED.
+- Icono: bombilla o pregunta.
+
+
+9.2 Verdadero/Falso
+
+Uso:
+- Reforzar conceptos simples.
+- Corregir ideas equivocadas.
+
+Estilo visual:
+- Correcto: verde #16A34A.
+- Incorrecto: rojo #DC2626.
+- Fondo neutral: #FFFFFF.
+
+
+9.3 Opción múltiple
+
+Uso:
+- Identificar fuentes confiables.
+- Evaluar comprensión.
+- Cierre del tema.
+
+Estilo visual:
+- Pregunta destacada.
+- Opciones dentro de tarjetas.
+- Retroalimentación clara.
+
+
+9.4 Acordeón
+
+Uso:
+- Criterios de evaluación de fuentes.
+- Explicaciones por partes.
+- Evitar saturación de texto.
+
+Estilo visual:
+- Encabezado con color suave #EEF2FF.
+- Icono lineal.
+- Contenido con fondo blanco.
+
+
+9.5 Actividad final
+
+Uso:
+- Aplicar todo lo aprendido.
+- Crear una mini documentación.
+
+Estilo visual:
+- Fondo: #F0FDF4.
+- Borde izquierdo: 5 px sólido #16A34A.
+- Título claro.
+- Instrucciones numeradas.
+
+
+10. TABLAS
+
+Las tablas deben usarse para comparar o resumir información, no para llenar la página.
+
+Estilo recomendado:
+- Encabezado con fondo #2563EB.
+- Texto del encabezado en blanco.
+- Filas con fondo blanco.
+- Bordes suaves #E2E8F0.
+- Texto alineado a la izquierda.
+- Espaciado interno cómodo.
+
+Uso recomendado:
+- Comparar fuente confiable y no confiable.
+- Mostrar partes de una documentación.
+- Organizar ideas principales.
+
+
+11. IMÁGENES E ILUSTRACIONES
+
+Estilo recomendado:
+- Ilustraciones simples.
+- Imágenes relacionadas con estudio, documentos, búsqueda de información, libros, computadoras o investigación.
+- Evitar imágenes saturadas o con demasiados colores.
+- Mantener coherencia visual.
+
+Forma recomendada:
+- Bordes redondeados de 12 a 16 px.
+- Sombra suave.
+- Tamaño medio, no demasiado grande.
+
+No se recomienda:
+- Imágenes pixeladas.
+- Imágenes con marcas de agua.
+- Memes o recursos demasiado informales.
+- Fondos muy oscuros si el texto va encima.
+
+
+12. ESPACIADO Y COMPOSICIÓN
+
+La página debe tener aire visual. No conviene juntar demasiado los elementos.
+
+Recomendaciones:
+- Separación entre secciones: amplia.
+- Separación entre título y texto: media.
+- Separación entre párrafos: clara.
+- Máximo 2 o 3 bloques principales por sección.
+- Evitar párrafos largos.
+
+Medidas sugeridas:
+- Padding de tarjetas: 20 a 28 px.
+- Separación entre bloques: 24 a 36 px.
+- Radio de bordes: 12 a 16 px.
+
+
+13. JERARQUÍA VISUAL
+
+Cada sección debe guiar la vista del usuario.
+
+Orden de importancia:
+1. Título.
+2. Idea clave.
+3. Ejemplo.
+4. Actividad.
+5. Información secundaria.
+
+El usuario debe poder entender la idea principal de una sección en pocos segundos.
+
+
+14. TONO DEL TEXTO
+
+El tono debe ser:
+- Claro.
+- Académico.
+- Directo.
+- Comprensible.
+- Sin tecnicismos innecesarios.
+
+No debe sonar demasiado informal, pero tampoco excesivamente rígido.
+
+Ejemplo de tono adecuado:
+"La documentación permite organizar información importante para que pueda ser entendida y consultada después."
+
+Ejemplo de tono no recomendado:
+"La documentación constituye un proceso sistemático de registro epistemológico de unidades informativas."
+
+
+15. ACCESIBILIDAD
+
+La página debe ser fácil de leer y usar.
+
+Recomendaciones:
+- Usar buen contraste entre texto y fondo.
+- No usar colores como único indicador.
+- Acompañar iconos con texto.
+- Evitar bloques largos de lectura.
+- Usar tamaños de letra cómodos.
+- No abusar de animaciones.
+- Evitar fondos con mucho ruido visual.
+
+
+16. RESPONSIVIDAD
+
+La página debe poder verse correctamente en computadora, tableta y celular.
+
+Recomendaciones:
+- Usar tarjetas que se acomoden en columna en pantallas pequeñas.
+- Evitar tablas demasiado anchas.
+- No usar imágenes enormes.
+- Revisar que los botones sean fáciles de presionar.
+- Mantener textos cortos.
+
+
+17. ESTILO GENERAL POR SECCIÓN
+
+17.1 Portada
+
+Estilo:
+- Visual, limpia y llamativa.
+- Imagen principal.
+- Título grande.
+- Nombres de presentadores.
+
+Colores:
+- Fondo #EEF2FF.
+- Título #2563EB.
+- Texto secundario #475569.
+
+
+17.2 Introducción
+
+Estilo:
+- Breve y clara.
+- Pregunta de reflexión.
+
+Colores:
+- Fondo blanco.
+- Acento morado #7C3AED.
+
+
+17.3 Documentación
+
+Estilo:
+- Definición + ejemplo.
+- Tabla comparativa.
+
+Colores:
+- Azul académico #2563EB.
+
+
+17.4 Obtención de información
+
+Estilo:
+- Proceso paso a paso.
+- Lista visual.
+
+Colores:
+- Azul y morado.
+
+
+17.5 Fuentes confiables
+
+Estilo:
+- Acordeón o tarjetas por criterio.
+- Uso de iconos de verificación.
+
+Colores:
+- Verde para confianza.
+- Rojo para advertencia.
+
+
+17.6 Organización de información
+
+Estilo:
+- Esquema o tabla.
+- Actividad de ordenar.
+
+Colores:
+- Morado educativo #7C3AED.
+
+
+17.7 Redacción documental
+
+Estilo:
+- Consejos claros.
+- Ejemplo de reformulación.
+
+Colores:
+- Azul principal y fondo claro.
+
+
+17.8 Actividad final
+
+Estilo:
+- Bloque destacado.
+- Instrucciones numeradas.
+- Autoevaluación corta.
+
+Colores:
+- Fondo #F0FDF4.
+- Verde #16A34A.
+
+
+18. COMPONENTES RECOMENDADOS
+
+Componentes principales:
+- Portada visual.
+- Tarjetas de contenido.
+- Tablas comparativas.
+- Bloques de reflexión.
+- Preguntas de opción múltiple.
+- Verdadero/Falso.
+- Acordeones.
+- Actividad final.
+- Autoevaluación.
+
+Componentes a evitar:
+- Demasiados párrafos seguidos.
+- Listas muy largas.
+- Imágenes sin relación.
+- Colores demasiado brillantes.
+- Tipografías decorativas difíciles de leer.
+
+
+19. FRASE GUÍA DE DISEÑO
+
+La frase que debe orientar toda la página es:
+
+"Investigar no es copiar información; es seleccionar, comprender, organizar y comunicar conocimiento de forma responsable."
+
+Esta frase puede aparecer en la portada o en la conclusión.
+
+
+20. RESUMEN FINAL DE ESTILO
+
+La página debe verse como una presentación educativa moderna. Debe tener secciones breves, tarjetas limpias, colores académicos, iconos lineales, tipografías legibles e interacciones sencillas. El diseño debe ayudar a explicar el tema, no competir con él.
+
+La prioridad es que el estudiante entienda fácilmente el proceso completo:
+
+1. Buscar información.
+2. Verificar si es confiable.
+3. Seleccionar lo importante.
+4. Organizar las ideas.
+5. Redactar con claridad.
+6. Documentar correctamente.
