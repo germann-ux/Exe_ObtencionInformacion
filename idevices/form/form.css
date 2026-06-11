@@ -1,6 +1,7 @@
 /* Form iDevice (export CSS) */
 
 .form-IDevice .inline {
+    margin-left: 0.5rem;
     display: flex;
     justify-content: flex-start;
     align-items: center;
